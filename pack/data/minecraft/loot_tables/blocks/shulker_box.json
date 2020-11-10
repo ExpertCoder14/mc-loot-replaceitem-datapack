@@ -14,7 +14,7 @@
                 {
                   "condition": "minecraft:match_tool",
                   "predicate": {
-                    "nbt": "{drop_contents:true}"
+                    "nbt": "{dropContents:1b}"
                   }
                 }
               ]
