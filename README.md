@@ -1,9 +1,11 @@
 # mc_loot_replaceitem_datapack #
-A utility Minecraft Java Edition data pack to workaround player NBT.
+The `pack` folder above contains a utility data pack for Minecraft Java Edition to work around a specific problem involving player NBT.
 # About #
 This data pack contains a single loot table to modify the shulker box's behaviour.
 
 When broken with a stick with the NBT tag `dropContents:1b`, this will cause the shulker box to drop its contents instead of itself, with the NBT tags correctly specified When broken with anything without that tag, the shulker box drops normally.
+
+I made this data pack to work around a specific player NBT issue, detailed [here](https://gaming.stackexchange.com/q/376895/250180).
 # Installation #
 To get this data pack, press the green Clone or Download button above, then pick "Download ZIP". The ZIP file should contain this file and the `pack` folder you see above. Copy the `pack` folder, and paste it into the `datapacks` folder in your world save. You can feel free to rename the `pack` if you wish to a more memorable data pack name.
 
