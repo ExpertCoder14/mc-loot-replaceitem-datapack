@@ -9,6 +9,7 @@ I made this data pack to work around a specific player NBT issue, detailed [here
 # Installation #
 To get this data pack, press the green Clone or Download button above, and clone this repository in your preferred way.
 
+Install all these files into a new folder in the `datapacks` folder of your world save.
 # Contact #
 For questions, comments, or concerns about this data pack, please *open an issue*. Click the Issues tab above, and submit a new issue.
 
